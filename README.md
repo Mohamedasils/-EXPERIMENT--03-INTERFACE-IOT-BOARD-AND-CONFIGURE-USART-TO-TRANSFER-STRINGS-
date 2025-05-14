@@ -1,9 +1,11 @@
-###  DATE:26.03.2025 
-###  NAME: mohamed asil
-###  ROLL NO :212223040112
-###  DEPARTMENT:cse
 
-# EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+###  DATE: 26.03.25
+
+###  NAME: mohamed asil s
+###  ROLL NO :212223040112
+###  DEPARTMENT: CSE
+
+# EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
@@ -61,9 +63,13 @@ PUTCHAR_PROTOTYPE
 
 }
 ```
-## Output screen shots of Serial port utility:
-![WhatsApp Image 2025-03-26 at 10 52 28_2d139ac5](https://github.com/user-attachments/assets/edd2ee7f-87a8-4dc2-be8e-8099c61c62be)
 
 
+## Output screen shots of Serial port utility   :
+ ![image](https://github.com/user-attachments/assets/3224bafd-28d4-4659-b25a-c388c04abd7c)
+
+ 
+ 
+ 
 ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
